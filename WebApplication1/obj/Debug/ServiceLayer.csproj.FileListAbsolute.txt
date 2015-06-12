@@ -1,0 +1,16 @@
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\WebApplication1\bin\WebApplication1.dll
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\WebApplication1\bin\WebApplication1.pdb
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\BusinessLayer.dll
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\Data.dll
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\DAOLayer.dll
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\BusinessLayer.pdb
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\Data.pdb
+C:\Users\hp\Desktop\Solution1\WebApplication1\bin\DAOLayer.pdb
+C:\Users\hp\Desktop\Solution1\WebApplication1\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Solution1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hp\Desktop\Solution1\WebApplication1\obj\Debug\WebApplication1.pdb

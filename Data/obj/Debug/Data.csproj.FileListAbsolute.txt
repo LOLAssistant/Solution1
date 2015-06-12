@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\Solution1\Data\bin\Debug\Data.dll.config
+C:\Users\hp\Desktop\Solution1\Data\bin\Debug\Data.dll
+C:\Users\hp\Desktop\Solution1\Data\bin\Debug\Data.pdb
+C:\Users\hp\Desktop\Solution1\Data\obj\Debug\Data.dll
+C:\Users\hp\Desktop\Solution1\Data\obj\Debug\Data.pdb
+C:\Users\hp\Desktop\Solution1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

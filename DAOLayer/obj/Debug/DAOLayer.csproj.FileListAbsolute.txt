@@ -1,0 +1,13 @@
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\DAOLayer\bin\Debug\DAOLayer.dll
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\DAOLayer\bin\Debug\DAOLayer.pdb
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\DAOLayer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\DAOLayer\obj\Debug\DAOLayer.dll
+c:\users\samsung\documents\visual studio 2010\Projects\Solution1\DAOLayer\obj\Debug\DAOLayer.pdb
+C:\Users\hp\Desktop\Solution1\DAOLayer\bin\Debug\DAOLayer.dll.config
+C:\Users\hp\Desktop\Solution1\DAOLayer\bin\Debug\DAOLayer.dll
+C:\Users\hp\Desktop\Solution1\DAOLayer\bin\Debug\DAOLayer.pdb
+C:\Users\hp\Desktop\Solution1\DAOLayer\bin\Debug\Data.dll
+C:\Users\hp\Desktop\Solution1\DAOLayer\bin\Debug\Data.pdb
+C:\Users\hp\Desktop\Solution1\DAOLayer\obj\Debug\DAOLayer.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Solution1\DAOLayer\obj\Debug\DAOLayer.dll
+C:\Users\hp\Desktop\Solution1\DAOLayer\obj\Debug\DAOLayer.pdb
